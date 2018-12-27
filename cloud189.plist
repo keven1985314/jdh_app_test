@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8"?> 
 
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"> 
@@ -23,7 +24,7 @@
 
 <key>url</key>  
                    
-<string>http://www.jd-h.cn/dowmload/ios_jdh.ipa</string>  
+<string>http://www.jd-h.cn/download/ios_jdh.ipa</string>  
                 
 </dict>  
             
