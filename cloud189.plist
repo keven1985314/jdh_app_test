@@ -15,8 +15,7 @@
                      <string>http://www.jd-h.cn/download/ios_jdh.ipa</string>  
                     </dict>  
                 </array>  
-                <key>metadata</key>  
-                 <dict>     
+                  <dict>     
                     <key>bundle-identifier</key>  
                     <string>com.llrj.oilrebate</string>   
                     <key>bundle-version</key>   
@@ -26,8 +25,7 @@
                     <key>title</key>   
                     <string>加多惠</string>  
                 </dict> 
-               
-            </dict>  
+             </dict>  
         </array>  
     </dict>  
 
