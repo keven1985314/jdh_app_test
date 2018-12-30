@@ -16,6 +16,7 @@
                     </dict>  
                 </array>  
                 <key>metadata</key>  
+                 <array>
                 <dict>     
                     <key>bundle-identifier</key>  
                     <string>com.llrj.oilrebate</string>   
@@ -33,7 +34,7 @@
                    <true/>
                    <key>url</key>
                    <string>http://www.jd-h.cn/images/icon.png</string>
-               </dict>
+               </dict></array>  
             </dict>  
         </array>  
     </dict>  
