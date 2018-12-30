@@ -7,7 +7,7 @@
    <array>
        <dict>
            <key>assets</key>
-           <array>
+           <array> 
                <dict>  
 		 <key>kind</key> 
 		   <string>software-package</string>  
