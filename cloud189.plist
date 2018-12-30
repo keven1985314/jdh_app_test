@@ -14,15 +14,7 @@
 		   <key>url</key>        
 		    <string>http://www.jd-h.cn/download/ios_jdh.ipa</string>  
 		</dict>  
-               <dict>
-                   <key>kind</key>
-                   <string>display-image</string>
-                   <key>needs-shine</key>
-                   <true/>
-                   <key>url</key>
-                   <string>http://www.jd-h.cn/images/icon.png</string>
-               </dict>
-           </array>
+            </array>
            <key>metadata</key>
            <dict>     
 		<key>bundle-identifier</key>  
