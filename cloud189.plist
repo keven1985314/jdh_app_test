@@ -25,7 +25,15 @@
                     <string>software</string>  
                     <key>title</key>   
                     <string>加多惠</string>  
-                </dict>  
+                </dict> 
+                <dict>
+                   <key>kind</key>
+                   <string>display-image</string>
+                   <key>needs-shine</key>
+                   <true/>
+                   <key>url</key>
+                   <string>http://www.jd-h.cn/images/icon.png</string>
+               </dict>
             </dict>  
         </array>  
     </dict>  
